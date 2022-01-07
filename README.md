@@ -1,7 +1,7 @@
 # Network-Data
 The network data used in "Identifying influential spreaders by gravity model" and "Identifying influential spreaders in complex networks by an improved gravity model".
 
-PS: All networks are transformed into undirected networks. More specifically, WV contains the nodes in the largest WCC of Wikipedia vote network, WV_7115 contains all the nodes of Wikipedia vote network. WV is used in "Identifying influential spreaders by gravity model" while WV_7115 is used in "Identifying influential spreaders in complex networks by an improved gravity model".
+PS: All networks are transformed into undirected networks. More specifically, we only consider the largest component (contains 7066 nodes) of the WV network (contains 7115 nodes) because it is disconnected.
 
 Data Description
 1. Jazz is a collaboration network of jazz musicians.
