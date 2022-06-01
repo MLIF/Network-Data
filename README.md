@@ -1,5 +1,5 @@
 # Network-Data
-The network data used in "Identifying influential spreaders by gravity model" and "Identifying influential spreaders in complex networks by an improved gravity model".
+The network data used in "Identifying influential spreaders by gravity model", "Identifying influential spreaders in complex networks by an improved gravity model" and "Identifying influential spreaders by gravity model considering multi-characteristics of nodes".
 
 PS: All networks are transformed into undirected networks. More specifically, we only consider the largest component (contains 7066 nodes) of the WV network (contains 7115 nodes) because it is disconnected.
 
